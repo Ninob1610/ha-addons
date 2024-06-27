@@ -1,7 +1,7 @@
 {
-  "name": "Nightscout Libre",
+  "name": "Nightscout Nino",
   "version": "15.0.2-3",
-  "slug": "nightscout_libre",
+  "slug": "nightscout_nino",
   "description": "Nightscout acts as a web-based CGM (Continuous Glucose Montinor) to allow multiple caregivers to remotely view a patients glucose data in realtime.",
   "url": "https://github.com/Ninob1610/addon-nightscout",
   "arch": [
